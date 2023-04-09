@@ -1,0 +1,16 @@
+.register-container {
+
+    width: 40%;
+}
+
+.register-container h2 {
+
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.register-container button {
+    margin-top: 10px;
+    width: 100%;
+}
